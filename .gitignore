@@ -1,0 +1,25 @@
+# Book text / data (public domain — see README for source)
+*.txt
+*.csv
+
+# Pipeline intermediate/output files
+*.jsonl
+*.json
+*.html
+Knowledge graph/
+the_count_of_monte_cristo/
+causal_link/
+clean/
+fixed/
+KG_viz/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS/editor junk
+.DS_Store
+.vscode/
