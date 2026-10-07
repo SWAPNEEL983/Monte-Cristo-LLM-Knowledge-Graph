@@ -1,0 +1,7 @@
+mistralai
+pyvis
+networkx
+numpy
+scipy
+pandas
+matplotlib
